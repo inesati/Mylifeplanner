@@ -1,4 +1,6 @@
+
 Balance Pro - Planner y Tracker Personal
+
 Balance Pro es una aplicación frontend React moderna y dinámica diseñada para personas disciplinadas que buscan organizar su vida diaria de forma eficiente. Combina planificación semanal, seguimiento de estado de ánimo, rutinas de gym y dieta, gestión de hobbies, proyectos personales y notas diarias, todo en un solo lugar.
 
 Características
@@ -36,7 +38,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone https://github.com/inesati/balance-pro.git
+git clone [https://github.com/inesati/balance-pro.git](https://github.com/inesati/Mylifeplanner.git)
 cd balance-pro
 Instala dependencias:
 

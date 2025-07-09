@@ -38,7 +38,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone [https://github.com/inesati/balance-pro.git](https://github.com/inesati/Mylifeplanner.git)
+git clone (https://github.com/inesati/Mylifeplanner.git)
 cd balance-pro
 Instala dependencias:
 

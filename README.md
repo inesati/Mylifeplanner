@@ -36,7 +36,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone https://github.com/tuusuario/balance-pro.git
+git clone https://github.com/inesati/balance-pro.git
 cd balance-pro
 Instala dependencias:
 
